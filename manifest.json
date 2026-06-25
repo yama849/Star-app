@@ -1,13 +1,8 @@
 {
   "short_name": "StarApp",
-  "name": "Star-app",
+  "name": "ポケット・プラネタリウム",
   "icons": [
     {
-      "src": "icon.png",
-      "type": "image/png",
-      "sizes": "any"
-    }
-    ,{
       "src": "icon.png",
       "type": "image/png",
       "sizes": "192x192"
